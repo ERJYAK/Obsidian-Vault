@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструменты/Git/Git.md",
+                "file": "TSDB/TSDB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "TSDB"
             }
           }
         ]
@@ -163,16 +163,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "35fc7356c407993e",
+  "active": "c6ea586a8d815f3f",
   "lastOpenFiles": [
-    "коммиты.md",
+    "TSDB/Общая структура TSDB.canvas",
+    "Инструменты/БД/Cassandra/Cassandra.md",
+    "Инструменты/БД/Общее.md",
     "Инструменты/Git/Git.md",
+    "TSDB/TSDB.md",
+    "TSDB",
+    "Новая папка",
+    "Инструменты/БД/Без названия.md",
+    "Инструменты/БД/Без названия",
+    "Инструменты/БД/Cassandra",
+    "Инструменты/БД",
+    "Инструменты/Microsoft Visual Studio.md",
+    "Без названия",
+    "коммиты.md",
     "коммит.md",
     "SQL/Индексы.md",
     "Инструменты/Git/GitHub.md",
     "C#/Основы.md",
     "C#/ООП.md",
-    "Инструменты/Microsoft Visual Studio.md",
     "C.md",
     "Без названия 1.canvas",
     "Инструменты/Git",
@@ -196,8 +207,6 @@
     "Pasted image 20240513160511.png",
     "Pasted image 20240513160408.png",
     "Pasted image 20240513152522.png",
-    "Unisab",
-    "Основы.md",
-    "C#"
+    "Основы.md"
   ]
 }
