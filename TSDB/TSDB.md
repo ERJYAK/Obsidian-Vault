@@ -20,8 +20,33 @@
 
 **Configurator** - одно из клиентских приложений. Оно непосредственно подключается к серверу. Это настольное приложение, в котром мы указываем, к какому *TSDB Server* мы покдлючаемся. Таких подключений может быть несколько.
 ^efa118
-
 Выбираем сервер и смотрим, какие тэги есть. Их атрибуты, значения и тп.
+
+# Конфиг TSDB
+
+Есть 2 конфиг файла. Они лежат в *Program Files\\Indusoft\\TSDB*. Для каждого сервиса конфиг лежит в своей папке сервиса.
+
+## WebApi
+
+**TokenLifeTime** - отвечает за время жизни токена авторизации. В файле указывается в минутах, WebAPI отдает в секундах.
+**ValidateTokenLifetime** - флаг ограниченного времени жизни токена. Если *false*, то предыдущее свойство не анализируется и токен живет все время до выхода.
+
+Затем идут *ConnectionStrings*:
+```json
+{
+ConnectionStrings": 
+{
+		"TSDBEntities": "Data Source= ;Initial Catalog=;Persist Security Info=;User ID=;Password=''", -- Это к MS SQL
+		"TSDBLogs": "Data Source=;Initial Catalog=;Persist Security Info=;User ID= ;Password=''", -- Это к MS SQL
+		"PostgreSqlConnection": "Host=;Port=;Database=;Username=;Password=''",
+		"PostgreSqlLogConnection": "Host=;Port=;Database=;Username=;Password=''"
+	}
+}
+```
+
+Ниже идут настройки подключения к *Cassandra* и к *Redis*
+Далее идут настрйоки атрибутов тэгов. Это именно сами настройки атрибутов (какме атрибуты выставлять тэгам).
+В **DataStorageType** указывается к какой конкретно БД подключаться.
 # Хранение данных
 
 ## Описание данных
