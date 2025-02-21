@@ -163,8 +163,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c6ea586a8d815f3f",
+  "active": "35fc7356c407993e",
   "lastOpenFiles": [
+    "Учетка/Учетка.md",
+    "Учетка",
     "TSDB/Общая структура TSDB.canvas",
     "Инструменты/БД/Cassandra/Cassandra.md",
     "Инструменты/БД/Общее.md",
@@ -201,7 +203,6 @@
     "Банк",
     "Unisab/Лекции по UNISAB.md",
     "Pasted image 20240728232818.png",
-    "SQL",
     "Pasted image 20240514164601.png",
     "Pasted image 20240513163020.png",
     "Pasted image 20240513160511.png",
