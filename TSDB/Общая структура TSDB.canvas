@@ -5,7 +5,9 @@
 		{"id":"c46060a8b71e1360","type":"text","text":"[TSDB Server](TSDB#^efacac) ","x":-520,"y":302,"width":250,"height":60,"color":"4"},
 		{"id":"c0d4af07220739aa","type":"text","text":"[TSDB Connector](TSDB#^efa110) ","x":-520,"y":174,"width":250,"height":60,"color":"4"},
 		{"id":"7215588290017a6a","type":"text","text":" Клиентское приложение","x":-515,"y":20,"width":240,"height":65,"color":"6"},
-		{"id":"47d28bf63b58a13d","type":"text","text":"[Web API](TSDB#^efa111)","x":-860,"y":174,"width":250,"height":60,"color":"4"}
+		{"id":"47d28bf63b58a13d","type":"text","text":"[Web API](TSDB#^efa111)","x":-860,"y":174,"width":250,"height":60,"color":"4"},
+		{"id":"5bfe0c35a399716d","x":-140,"y":174,"width":250,"height":60,"color":"6","type":"text","text":"[Configurator](TSDB#^efa118)"},
+		{"id":"ba21b4087d4f53d6","type":"text","text":"[TSDB Server](TSDB#^efacac) ","x":-140,"y":302,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"d12724210193f763","fromNode":"9b7ac568f4e4b81b","fromSide":"top","toNode":"c46060a8b71e1360","toSide":"bottom"},
@@ -13,6 +15,8 @@
 		{"id":"843315cbacd8d595","fromNode":"c0d4af07220739aa","fromSide":"bottom","toNode":"c46060a8b71e1360","toSide":"top","fromEnd":"arrow"},
 		{"id":"25848a63eb2c5eca","fromNode":"c0d4af07220739aa","fromSide":"top","toNode":"7215588290017a6a","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"5e1fb0944f4921ef","fromNode":"7215588290017a6a","fromSide":"left","toNode":"47d28bf63b58a13d","toSide":"top","fromEnd":"arrow"},
-		{"id":"8d18826fed2eded3","fromNode":"47d28bf63b58a13d","fromSide":"bottom","toNode":"c46060a8b71e1360","toSide":"left","fromEnd":"arrow"}
+		{"id":"8d18826fed2eded3","fromNode":"47d28bf63b58a13d","fromSide":"bottom","toNode":"c46060a8b71e1360","toSide":"left","fromEnd":"arrow"},
+		{"id":"b93ad78c178ffe1b","fromNode":"5bfe0c35a399716d","fromSide":"left","toNode":"c46060a8b71e1360","toSide":"right","fromEnd":"arrow"},
+		{"id":"b36fc17f8f76db74","fromNode":"5bfe0c35a399716d","fromSide":"bottom","toNode":"ba21b4087d4f53d6","toSide":"top","fromEnd":"arrow"}
 	]
 }
