@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aab8bd6e4e68c569",
+        "id": "47596c634778d18d",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcaca24b59d2366",
+            "id": "2ef926a14eb862c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/baza.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "baza"
-            }
-          },
-          {
-            "id": "e7f8abbee3be74b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Термины и сущности для разбора.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Термины и сущности для разбора"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -177,12 +159,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5fcaca24b59d2366",
+  "active": "2ef926a14eb862c6",
   "lastOpenFiles": [
+    "Предметные области/Временные ряды/Временные ряды.md",
+    "Python/baza.md",
+    "Инструменты/БД/Общее.md",
+    "Инструменты/БД/Cassandra/Cassandra.md",
+    "Инструменты/Git/GitHub.md",
+    "Инструменты/Git/Git.md",
     "TSDB/Общая структура TSDB.canvas",
     "TSDB/TSDB.md",
     "Термины и сущности для разбора.md",
-    "Python/baza.md",
     "Без названия.md",
     "Python",
     "SQL/Базовый синтаксис и операторы.md",
@@ -191,13 +178,9 @@
     "Учетка/Учетка.md",
     "Инструменты/JetBrains/Rider",
     "Инструменты/JetBrains",
-    "Инструменты/БД/Общее.md",
-    "Предметные области/Временные ряды/Временные ряды.md",
     "Предметные области/Временные ряды",
     "Предметные области",
-    "Инструменты/Git/Git.md",
     "Учетка",
-    "Инструменты/БД/Cassandra/Cassandra.md",
     "TSDB",
     "Новая папка",
     "Инструменты/БД/Без названия.md",
@@ -206,7 +189,6 @@
     "Инструменты/Microsoft Visual Studio.md",
     "коммиты.md",
     "коммит.md",
-    "Инструменты/Git/GitHub.md",
     "C#/Основы.md",
     "C#/ООП.md",
     "C.md",
