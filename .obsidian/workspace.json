@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47596c634778d18d",
+        "id": "865747db25c878aa",
         "type": "tabs",
         "children": [
           {
-            "id": "2ef926a14eb862c6",
+            "id": "e3d0c7d10eee2c03",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,23 +159,29 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2ef926a14eb862c6",
+  "active": "e3d0c7d10eee2c03",
   "lastOpenFiles": [
+    "Термины и сущности для разбора.md",
+    "Инструменты/БД/Cassandra/Cassandra.md",
+    "Инструменты/БД/Общее.md",
+    "Термины.md",
+    "Учетка/Учетка.md",
+    "Инструменты/Git/Git.md",
+    "Инструменты/Git/GitHub.md",
+    "^2c1000.md",
+    "Pasted image 20240728232818.png.md",
+    "2025-02-24.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
     "Предметные области/Временные ряды/Временные ряды.md",
     "Python/baza.md",
-    "Инструменты/БД/Общее.md",
-    "Инструменты/БД/Cassandra/Cassandra.md",
-    "Инструменты/Git/GitHub.md",
-    "Инструменты/Git/Git.md",
     "TSDB/Общая структура TSDB.canvas",
     "TSDB/TSDB.md",
-    "Термины и сущности для разбора.md",
     "Без названия.md",
     "Python",
-    "SQL/Базовый синтаксис и операторы.md",
+    "Инструменты/БД/SQL/Базовый синтаксис и операторы.md",
     "Python.md",
-    "SQL/Индексы.md",
-    "Учетка/Учетка.md",
+    "Инструменты/БД/SQL/Индексы.md",
     "Инструменты/JetBrains/Rider",
     "Инструменты/JetBrains",
     "Предметные области/Временные ряды",
@@ -192,7 +198,6 @@
     "C#/Основы.md",
     "C#/ООП.md",
     "C.md",
-    "Без названия 1.canvas",
     "Инструменты/Без названия.canvas",
     "Unisab/FastReport.md",
     "Pasted image 20250126213201.png",
@@ -200,15 +205,11 @@
     "Pasted image 20250126213106.png",
     "Pasted image 20250126213035.png",
     "Банк/Термины.md",
-    "Unisab/Архитектура и основные принципы.md",
-    "Без названия.canvas",
-    "Unisab/Лекции по UNISAB.md",
     "Pasted image 20240728232818.png",
     "Pasted image 20240514164601.png",
     "Pasted image 20240513163020.png",
     "Pasted image 20240513160511.png",
     "Pasted image 20240513160408.png",
-    "Pasted image 20240513152522.png",
-    "Основы.md"
+    "Pasted image 20240513152522.png"
   ]
 }
