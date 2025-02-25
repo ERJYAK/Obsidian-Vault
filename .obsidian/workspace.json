@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "865747db25c878aa",
+        "id": "1cc65eacaaf52259",
         "type": "tabs",
         "children": [
           {
-            "id": "e3d0c7d10eee2c03",
+            "id": "de7dc27f23812da3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,13 +159,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e3d0c7d10eee2c03",
+  "active": "de7dc27f23812da3",
   "lastOpenFiles": [
+    "Учетка/Учетка.md",
     "Термины и сущности для разбора.md",
     "Инструменты/БД/Cassandra/Cassandra.md",
     "Инструменты/БД/Общее.md",
     "Термины.md",
-    "Учетка/Учетка.md",
     "Инструменты/Git/Git.md",
     "Инструменты/Git/GitHub.md",
     "^2c1000.md",
