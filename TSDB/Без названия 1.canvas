@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"791bd550d7ed6603","x":-460,"y":220,"width":250,"height":60,"type":"text","text":"Получить данные по scum классу"},
+		{"id":"b7bf8210cacbc3fd","x":100,"y":220,"width":250,"height":60,"type":"text","text":"Получить данные по subscription"},
+		{"id":"a8f4210c24aba83e","x":-180,"y":60,"width":250,"height":60,"type":"text","text":"Получил значение в виде списка как есть"},
+		{"id":"2e73b4311b243d4d","x":-180,"y":-60,"width":250,"height":60,"type":"text","text":"Проверка на адекватность данных"},
+		{"id":"975af8a4641cecaf","x":-180,"y":-180,"width":250,"height":60,"type":"text","text":"Оборачивается в TSDBPoint"},
+		{"id":"b8c75725ca06d004","x":-180,"y":-300,"width":250,"height":60,"type":"text","text":"отдать список в буфер на запись"},
+		{"id":"00169cdd024d19b4","x":-478,"y":-78,"width":250,"height":60,"type":"text","text":"{value:obj, timestamp:datetime}"}
+	],
+	"edges":[
+		{"id":"a7e84cf58b247d81","fromNode":"791bd550d7ed6603","fromSide":"top","toNode":"a8f4210c24aba83e","toSide":"left"},
+		{"id":"431f7488f1c7e5fc","fromNode":"b7bf8210cacbc3fd","fromSide":"top","toNode":"a8f4210c24aba83e","toSide":"right"},
+		{"id":"d02836f15650bc7f","fromNode":"a8f4210c24aba83e","fromSide":"top","toNode":"2e73b4311b243d4d","toSide":"bottom"},
+		{"id":"c3eb5358609c1758","fromNode":"2e73b4311b243d4d","fromSide":"top","toNode":"975af8a4641cecaf","toSide":"bottom"},
+		{"id":"b10d90ddba086a5b","fromNode":"975af8a4641cecaf","fromSide":"top","toNode":"b8c75725ca06d004","toSide":"bottom"}
+	]
+}
